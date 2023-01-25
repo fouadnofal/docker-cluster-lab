@@ -1,0 +1,15 @@
+
+1- 	ssh -i "vockey.pem" ec2-user@ec2-35-92-169-198.us-west-2.compute.amazonaws.com
+
+2- 	ssh -i "vockey.pem" ec2-user@ec2-54-245-152-102.us-west-2.compute.amazonaws.com
+
+3- 	ssh -i "vockey.pem" ec2-user@ec2-34-216-17-49.us-west-2.compute.amazonaws.com
+
+4-	ssh -i "vockey.pem" ec2-user@ec2-35-89-81-68.us-west-2.compute.amazonaws.com
+
+5	ssh -i "vockey.pem" ec2-user@ec2-34-220-247-154.us-west-2.compute.amazonaws.com
+
+6-	ssh -i "vockey.pem" ec2-user@ec2-35-163-57-31.us-west-2.compute.amazonaws.com
+
+7-	ssh -i "vockey.pem" ec2-user@ec2-34-213-209-106.us-west-2.compute.amazonaws.com
+

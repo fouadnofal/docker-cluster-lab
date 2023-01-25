@@ -13,3 +13,12 @@
 
 7-	ssh -i "vockey.pem" ec2-user@ec2-34-213-209-106.us-west-2.compute.amazonaws.com
 
+
+
+worker token
+
+	docker swarm join --token SWMTKN-1-1dcoibaqf8wrxkky1eth1vpia9q7f5e7td9b6j3ouszl2d286e-euv489krhqx12vf9o3vv345ax 30.0.30.254:2376
+	
+manager token
+
+	docker swarm join --token SWMTKN-1-1dcoibaqf8wrxkky1eth1vpia9q7f5e7td9b6j3ouszl2d286e-e007u2zsebmgmh7sw5n8p05ew 30.0.30.254:2376
